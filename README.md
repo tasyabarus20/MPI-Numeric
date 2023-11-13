@@ -124,4 +124,6 @@ This guide provides step-by-step instructions for creating a master and slave, c
     ```bash
     mpirun -np 4 -host master,slave1,slave2,slave3 python3 pers22.py
     ```
+4. Output
+   
 ![image](https://github.com/tasyabarus20/MPI-Numeric/assets/150136650/67926dfd-40e6-41e5-bfaa-8b77b53b87d7)
